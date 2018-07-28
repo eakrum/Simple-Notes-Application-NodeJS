@@ -1,4 +1,4 @@
-# Project Title
+# NodeJS Notes Application
 
 A Simple notes application to demonstrate basic nodeJS functionality
 
